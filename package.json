@@ -1,0 +1,35 @@
+{
+  "name": "insertposgresql",
+  "version": "1.0.0",
+  "description": "Insertar un registro desde frontend react utilizando apollo server, graphql, prisma",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anyelo111/InsertPosgresql.git"
+  },
+  "keywords": [
+    "React",
+    "Apollo-server",
+    "Apollo-client",
+    "Prisma",
+    "Nodemon",
+    "etc"
+  ],
+  "author": "Anyelo Obregon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anyelo111/InsertPosgresql/issues"
+  },
+  "homepage": "https://github.com/anyelo111/InsertPosgresql#readme",
+  "dependencies": {
+    "@apollo/server": "^4.10.5",
+    "@prisma/client": "^5.17.0",
+    "graphql": "^16.9.0",
+    "graphql-tag": "^2.12.6",
+    "prisma": "^5.17.0"
+  }
+}
